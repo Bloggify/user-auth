@@ -14,8 +14,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
-  "homepage": "https://github.com/IonicaBizau/bloggify-user-auth#readme",
+  "author": "Bloggify <support@bloggify.org> (https://bloggify.org)",
+  "homepage": "https://github.com/Bloggify/bloggify-user-auth#readme",
   "files": [
     "bin/",
     "app/",
@@ -30,17 +30,17 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/IonicaBizau/bloggify-user-auth.git"
+    "url": "git+ssh://git@github.com/Bloggify/bloggify-user-auth.git"
   },
   "bugs": {
-    "url": "https://github.com/IonicaBizau/bloggify-user-auth/issues"
+    "url": "https://github.com/Bloggify/bloggify-user-auth/issues"
   },
   "bloggify": {
     "config": {
-        "signin_url": "/user/signin",
-        "signup_url": "/user/signup",
-        "signout_url": "/user/signout",
-        "success_url": "/"
+      "signin_url": "/user/signin",
+      "signup_url": "/user/signup",
+      "signout_url": "/user/signout",
+      "success_url": "/"
     }
   },
   "dependencies": {

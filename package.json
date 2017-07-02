@@ -34,5 +34,17 @@
   },
   "bugs": {
     "url": "https://github.com/IonicaBizau/bloggify-user-auth/issues"
+  },
+  "bloggify": {
+    "config": {
+        "signin_url": "/user/signin",
+        "signup_url": "/user/signup",
+        "signout_url": "/user/signout",
+        "success_url": "/"
+    }
+  },
+  "dependencies": {
+    "idy": "^1.2.7",
+    "md5": "^2.2.1"
   }
 }

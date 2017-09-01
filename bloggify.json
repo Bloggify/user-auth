@@ -1,0 +1,8 @@
+{
+    "config": {
+      "signin_url": "/user/signin",
+      "signup_url": "/user/signup",
+      "signout_url": "/user/signout",
+      "success_url": "/"
+    }
+}

@@ -9,7 +9,7 @@
     "for"
   ],
   "license": "MIT",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -34,14 +34,6 @@
   },
   "bugs": {
     "url": "https://github.com/Bloggify/user-auth/issues"
-  },
-  "bloggify": {
-    "config": {
-      "signin_url": "/user/signin",
-      "signup_url": "/user/signup",
-      "signout_url": "/user/signout",
-      "success_url": "/"
-    }
   },
   "dependencies": {
     "idy": "^1.2.7",

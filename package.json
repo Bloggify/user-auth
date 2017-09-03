@@ -36,6 +36,7 @@
     "url": "https://github.com/Bloggify/user-auth/issues"
   },
   "dependencies": {
+    "bloggify-passport": "^2.0.1",
     "idy": "^1.2.7",
     "md5": "^2.2.1"
   }

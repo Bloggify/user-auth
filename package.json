@@ -40,7 +40,6 @@
   },
   "dependencies": {
     "bloggify-passport": "^2.0.1",
-    "bloggify-user-auth": "^3.2.1",
     "idy": "^1.2.7",
     "md5": "^2.2.1"
   }

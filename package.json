@@ -1,6 +1,7 @@
 {
   "name": "bloggify-user-auth",
   "description": "User management for Bloggify.",
+  "type": "module",
   "keywords": [
     "bloggify",
     "user",
